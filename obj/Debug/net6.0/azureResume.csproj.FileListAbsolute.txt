@@ -1,0 +1,5 @@
+C:\Users\Watson\source\repos\azureResume\obj\Debug\net6.0\azureResume.csproj.AssemblyReference.cache
+C:\Users\Watson\source\repos\azureResume\obj\Debug\net6.0\azureResume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watson\source\repos\azureResume\obj\Debug\net6.0\azureResume.AssemblyInfoInputs.cache
+C:\Users\Watson\source\repos\azureResume\obj\Debug\net6.0\azureResume.AssemblyInfo.cs
+C:\Users\Watson\source\repos\azureResume\obj\Debug\net6.0\azureResume.csproj.CoreCompileInputs.cache
