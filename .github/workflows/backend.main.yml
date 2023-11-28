@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-        - 'backend/**'
+    - 'backend/**'
 
 env:
   AZURE_FUNCTIONAPP_NAME: 'WatsonGetResumeCounter'   # set this to your function app name on Azure
@@ -21,7 +21,7 @@ jobs:
     - name: 'Login via Azure CLI'
       uses: azure/login@v1
       with:
-        creds: ${{ secrets.AZURE_CRENTIALS}}
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
     
     - name: Setup DotNet ${{ env.DOTNET_VERSION }} Environment
       uses: actions/setup-dotnet@v3
